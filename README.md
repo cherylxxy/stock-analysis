@@ -1,9 +1,9 @@
 # stock-analysis
 ## Overview of Project
 ### Background
-We as data professional, are using VBA in this stock analysis project to help Steve who graduated with a Finance background, to analyze multiple stocks to find some better choices for his parents to invest in. We are given 12 different tickers and two datasets of over 3000 rows for 2018 and 2017 stock activities that associate with the 12 stocks.  
+We, as data professional, are using VBA in this stock analysis project to help Steve who graduated with a Finance background, to analyze multiple stocks to find some better choices for his parents to invest in. We are given 12 different tickers and two datasets of over 3000 rows for 2018 and 2017 stock activities that associate with the 12 stocks.  
 ### Purpose
-This stock analysis is to analyze a whole list of 12 stocks and to find out how the stocks performed in 2018 and then to measure each ticker's performance by calculating the total daily volume and return in each year. The result of performance is used to offer better stocks to invest in. In addition, we challenge ourselves to make the code more efficient by using a solution of refactoring code to improve the logic of the original script.  
+This stock analysis is to analyze a whole list of 12 stocks and to find out how the stocks performed in 2018 and then to measure each ticker's performance by calculating the total daily volume and return in each year. The result of performance is used to offer better stocks to invest in. In addition, we challenged ourselves to make the code more efficient by using a solution of refactoring code to improve the logic of the original script.  
 
 ## Results
 ### Comparing the stock performance between 2017 and 2018
@@ -23,7 +23,7 @@ The results show that most of the tickers had a positive return in 2017, especia
 
  ![](Resources/VBA_Challenge_2017.PNG)
 
-However, in 2018, most of the tickers had a negative return but ticker ENPH and RUN had a similarly high return. Based on the results, ENPH and RUN are better options for Steve's parents to invest in and ENPH is a safer investment choice with a relatively more stable return. 
+However, in 2018, most of the tickers had a negative return, but the returns on both tickers ENPH and RUN are almost the same high. Based on the results, ENPH and RUN are better options for Steve's parents to invest in and ENPH is a safer investment choice with a relatively more stable return. 
 
 ![](Resources/VBA_Challenge_2018.PNG)
 
